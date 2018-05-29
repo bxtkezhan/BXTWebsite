@@ -30,6 +30,11 @@ googleAnalytics = ""
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
   email = "bxtkezhan@gmail.com"
+  
+  # Addrs
+  [params.addrs]
+  link = ""
+  image = "img/L.png"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -48,6 +53,10 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
+
+  [[params.navlinks]]
+  name = "The rss link"
+  url = "index.xml"
 
   [params.social]
   googleplus    = "https://plus.google.com/u/0/communities/102248015762019132808"
