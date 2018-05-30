@@ -13,4 +13,6 @@ image: img/home/helloworld.png
 “实践”是它很好用，但你却不知道为什么。
 而程序员能够很好的将理论和实践结合，做出那种既不好用，也不知道为什么的东西。
 
-大家好，我是KK´ ▽ ` )ﾉ
+<div class="brythonshell"></div>
+
+**大家好，我是KK´ ▽ ` )ﾉ**
