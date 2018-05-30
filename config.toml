@@ -44,7 +44,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Godot docs「中文」"
-  url = "home/godot_docs/"
+  url = "home/godot_docs/godot"
 
   [[params.navlinks]]
   name = "About"
