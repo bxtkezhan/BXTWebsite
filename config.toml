@@ -34,7 +34,7 @@ googleAnalytics = ""
   # Addrs
   [params.addrs]
   link = ""
-  image = "img/L.png"
+  image = "addrs/cc_wstore.jpg"
 
   # Nav links in the side bar
   [[params.navlinks]]
