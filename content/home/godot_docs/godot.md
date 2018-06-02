@@ -25,7 +25,7 @@ PS：你可以通过Github参与他们的项目开发！
 
 ### 概要
 
-- [饿饱他(:з」∠)](../about/about/)
+- [饿爆他(:з」∠)](../about/about/)
 
 ### Getting started
 
