@@ -6,49 +6,47 @@ draft: false
 image: img/home/godot_docs/docs_logo.png
 ---
 
-Godot is Free/Libre Open Source Software available under the OSI-approved MIT license.
+Godot是依据开源协议MIT发布的自由开源的软件
 <!--more-->
 
-This means it is free as in “free speech” as well as in “free beer”.
+这意味着你可以自由使用它。
 
-In short:
+简单来说:
 
-- There are no usage restrictions on Godot
-- This means you can use it for any game or application, commercially or non-commercially, in any industry
-- You can modify, (re)distribute and remix Godot to your heart’s content
+- Godot的使用没有限制
+- 你可以用它来开发商业或非商业的游戏或是任何行业的软件
+- 你可以修改Godot，也可以以自己的名义发布它
 
-For more, see here or ask your lawyer of choice.
+关于MIT协议的更多内容可以点击[这里](https://tldrlegal.com/license/mit-license)了解
 
-All the contents of the documentation are under the permissive Creative Commons Attribution 3.0 (CC-BY 3.0) license, with attribution to “Juan Linietsky, Ariel Manzur and the Godot Engine community”.
+Godot的Logo和ICON也采用了统一的协议，但是需要注意一些第三方库是否使用同样的协议。
 
-Logos and icons are generally under the same Creative Commons license. Note that some third-party libraries included with Godot’s source code may have different licenses.
+关于完整的内容可以通过[COPYRIGHT.txt](https://github.com/godotengine/godot/blob/master/COPYRIGHT.txt)以及[LICENSE.txt](https://github.com/godotengine/godot/blob/master/LICENSE.txt)和[LOGO_LICENSE.txt](https://github.com/godotengine/godot/blob/master/LOGO_LICENSE.md)进行了解。
 
-For full details, look at the COPYRIGHT.txt as well as the LICENSE.txt and LOGO_LICENSE.txt files in the Godot repository.
+也可以参看[Godot官方的协议介绍页面](https://godotengine.org/license)。
 
-Also see the license page on the Godot website.
+### Godot引擎支持的平台
 
-### Which platforms are supported by Godot?
-
-**For the editor:**
+**开发环境：**
 
 - Windows
 - Mac OS X
 - X11 (Linux, \*BSD)
 
-**For exporting your games:**
+**游戏运行环境：**
 
 - Windows (and UWP)
 - Mac OS X
-- X11 (Linux, *BSD)
+- X11 (Linux, \*BSD)
 - Android
 - iOS
 - Web
 
-Both 32 and 64 bit binaries are supported where it makes sense, with 64 being the default.
+32位和64位的二进制文件都被支持，默认情况下为64位。
 
-Some users also report building and using Godot successfully on ARM-based system with Linux, like the Raspberry Pi. There is also some unofficial thirdparty work being done on building for some consoles. None of this is included in the default build scripts or export templates, however.
+一些用户也成功在其它平台下编译完成Godot，例如ARM架构基础的Linux（Raspberry Pi），所以你也可以找到其它平台的非官方版本。
 
-For more on this, see the sections on exporting and compiling Godot yourself.
+详细内容可以查看[Compiling](../../development/compiling)这一章。
 
 ### Which languages are supported in Godot?
 
