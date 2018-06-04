@@ -37,12 +37,12 @@ Godot使用MIT开源协议，是完全自由开放的。由于没有附加的条
 
  为了相对直观的进行描述，文档分为5个部分，每个部分都有自己的侧重：
 
-- [饿爆他](../about) 部分主要用来做一些常识性的介绍，介绍了Godot项目，以及一些相关的协议。
-- [Getting started](../../getting_started/getting_started) 对于新手非常重要，它包括了所有使用Godot开发游戏的必要内容。其中[Step by step](../../getting_started/step_by_step)能很好的帮助新手入门。
-- [Tutorials](../../tutorials/tutorials) 基本上可以作为手册使用，你可以忽略编排的结构顺序，直接查找需要的内容进行学习。
-- [Development](../../development/development) 主要介绍引擎的构建、C++模块和编辑器插件的开发，适合高级用户以及Godot引擎的开发者。
-- [Community](../../community/community) 提供了一些向开发社区，幕后团队报告问题、交流技术的途径。
-- 最后，[Class refrence](../../class_reference/class_reference)是Godot的API参考，你可以在Godot的编辑器中找到它。因为这部分内容是由Godot项目主程序源代码中的某个文件直接生成，所以官方说他们可能不会再去编辑修改。
+- **概要**部分主要用来做一些常识性的介绍，介绍了Godot项目，以及一些相关的协议。
+- **Getting started**对于新手非常重要，它包括了所有使用Godot开发游戏的必要内容。其中[Step by step](../../getting_started/step_by_step)能很好的帮助新手入门。
+- **Tutorials**基本上可以作为手册使用，你可以忽略编排的结构顺序，直接查找需要的内容进行学习。
+- **Development**主要介绍引擎的构建、C++模块和编辑器插件的开发，适合高级用户以及Godot引擎的开发者。
+- **Community**提供了一些向开发社区，幕后团队报告问题、交流技术的途径。
+- 最后，**Class refrence**是Godot的API参考，你可以在Godot的编辑器中找到它。因为这部分内容是由Godot项目主程序源代码中的某个文件直接生成，所以官方说他们可能不会再去编辑修改。
 
 PS：如果想得到Godot的demo项目可以去它的github地址[Godot demo projects](https://github.com/godotengine/godot-demo-projects)。
 

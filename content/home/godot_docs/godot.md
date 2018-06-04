@@ -29,7 +29,7 @@ PS：你可以通过Github参与他们的项目开发！
 
 ### Getting started
 
-- Step by step
+- [Step by step](../getting_started/step_by_step)
 - Editor manual
 - Scripting
 - Project workflow
