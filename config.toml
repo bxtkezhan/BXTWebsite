@@ -47,6 +47,10 @@ googleAnalytics = ""
   url = "home/godot_docs/godot"
 
   [[params.navlinks]]
+  name = "Python Tutorials"
+  url = "home/python_tutorials/list"
+
+  [[params.navlinks]]
   name = "About"
   url = "about/"
 
